@@ -1,6 +1,8 @@
 body{
-    background-color: RGB (44,43,44);
-    
+    background-color: rgb (44,43,44);
+}
+header{
+    background-color: rgb (28, 28, 28);
 }
 .btn{
     padding: 15px 25px;
@@ -21,3 +23,4 @@ body{
     background-color: grey;
 
 } 
+
